@@ -4,6 +4,10 @@ All notable changes to this repository are documented here. The format follows [
 
 ## 2026-11-11
 
+### Changed
+
+- Organization profile README: the X badge points to [@codevibe_in](https://x.com/codevibe_in) (the account was renamed from @codevibencr), the npm badge opens the `codevibe_technology` npm organization page, and links to codevibe.in carry UTM tags (`utm_source=github`, `utm_medium=org-profile`, `utm_campaign=github-org`, `utm_content` for the link position) so visits from the profile can be measured.
+
 ### Fixed
 
 - `brand/social/`: the asterisk in the Codevibe mark had an extra top-right arm. It now matches the official logo (the corner bracket sits where that arm was). All five PNGs and SVGs are re-exported.
