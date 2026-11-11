@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://codevibe.in"><img src="./banner.svg" alt="Codevibe Technology. Code that moves business forward." width="100%"></a>
+  <a href="https://codevibe.in?utm_source=github&utm_medium=org-profile&utm_campaign=github-org&utm_content=banner"><img src="./banner.svg" alt="Codevibe Technology. Code that moves business forward." width="100%"></a>
 </p>
 
 <p align="center">
-  <a href="https://codevibe.in"><img alt="Website" src="https://img.shields.io/badge/codevibe.in-0A1525?style=for-the-badge&logo=googlechrome&logoColor=2DD4BF"></a>
+  <a href="https://codevibe.in?utm_source=github&utm_medium=org-profile&utm_campaign=github-org&utm_content=badge"><img alt="Website" src="https://img.shields.io/badge/codevibe.in-0A1525?style=for-the-badge&logo=googlechrome&logoColor=2DD4BF"></a>
   <a href="https://www.linkedin.com/company/codevibe-technology"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A1525?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzJERDRCRiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU1di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ1djYuMjl6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEyIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTJ6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzR2MjAuNTJDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1YzEgMCAxLjc4LS43NyAxLjc4LTEuNzRWMS43NEMyNCAuNzcgMjMuMjEgMCAyMi4yMiAweiIvPjwvc3ZnPg=="></a>
   <a href="https://instagram.com/codevibe_technology"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-0A1525?style=for-the-badge&logo=instagram&logoColor=2DD4BF"></a>
   <a href="https://x.com/codevibe_in"><img alt="X" src="https://img.shields.io/badge/@codevibe__in-0A1525?style=for-the-badge&logo=x&logoColor=2DD4BF"></a>
-  <a href="https://www.npmjs.com/~codevibe_technology"><img alt="npm" src="https://img.shields.io/badge/npm-0A1525?style=for-the-badge&logo=npm&logoColor=2DD4BF"></a>
+  <a href="https://www.npmjs.com/org/codevibe_technology"><img alt="npm" src="https://img.shields.io/badge/npm-0A1525?style=for-the-badge&logo=npm&logoColor=2DD4BF"></a>
   <a href="mailto:hello@codevibe.in"><img alt="Email" src="https://img.shields.io/badge/hello@codevibe.in-1B6AE0?style=for-the-badge&logo=maildotru&logoColor=white"></a>
 </p>
 
@@ -90,12 +90,12 @@ Issues and pull requests are welcome on both. Each repo has a contributing guide
 
 ## Work with us
 
-Have a product to build, or a site that needs to be faster? Write to **[hello@codevibe.in](mailto:hello@codevibe.in)** or start at **[codevibe.in](https://codevibe.in)**.
+Have a product to build, or a site that needs to be faster? Write to **[hello@codevibe.in](mailto:hello@codevibe.in)** or start at **[codevibe.in](https://codevibe.in?utm_source=github&utm_medium=org-profile&utm_campaign=github-org&utm_content=cta)**.
 
 <br>
 
 <p align="center">
-  <a href="https://codevibe.in">
+  <a href="https://codevibe.in?utm_source=github&utm_medium=org-profile&utm_campaign=github-org&utm_content=footer-logo">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codevibe-technology/ai-bot-access/main/.github/assets/codevibe-logo-light.png">
       <img alt="Codevibe" src="https://raw.githubusercontent.com/codevibe-technology/ai-bot-access/main/.github/assets/codevibe-logo-dark.png" height="28">
